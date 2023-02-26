@@ -1,0 +1,18 @@
+{
+  "name": "tenso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.9.0",
+    "math.js": "^1.1.46",
+    "mathjs": "^9.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
